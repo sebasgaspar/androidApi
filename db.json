@@ -7,10 +7,10 @@
     { "img": " ", "nameP": "Producto 1", "descP":" Descripcion producto 1" ,"cant": 1 }
   ],
   "categories": [
-    { "id": "1", "name": "Categoria1", "description": "Con mantequilla" , "pic":"Img.jpg" },
-    { "id": "2", "name": "Categoria2", "description": "Con mantequilla" , "pic":"Img.jpg" },
-    { "id": "3", "name": "Categoria3", "description": "Con mantequilla" , "pic":"Img.jpg" },
-    { "id": "4", "name": "Categoria4", "description": "Con mantequilla" , "pic":"Img.jpg" }
+    { "id": "1", "name": "Comida", "description": "Excelente" , "pic":"https://http2.mlstatic.com/purina-fancy-feast-plato-de-carne-de-res-marinado-en-salsa-D_NQ_NP_901346-MCO29132844841_012019-F.jpg" },
+    { "id": "2", "name": "Juguetes", "description": "Diversión" , "pic":"https://static.miscota.com/media/1/photos/products/127984/127984-juguete-perro-classic-with-rope-1-1-1-jpeg_1_g.jpeg" },
+    { "id": "3", "name": "Jabones", "description": "Cuidado" , "pic":"https://cdn1.totalcode.net/easy/product-zoom/es/jabon-insecticida-externo-perro-x90g-1.jpg" },
+    { "id": "4", "name": "Cuidado", "description": "Amor puro" , "pic":"https://myanimals.com/es/wp-content/uploads/2015/01/peinar-a-tu-perro-3.jpg" }
     
   ],
   "profile": {
