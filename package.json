@@ -1,0 +1,23 @@
+{
+  "name": "apiandroid",
+  "version": "1.0.0",
+  "description": "Api for android app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasgaspar/androidApi.git"
+  },
+  "author": "Oscar Alonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebasgaspar/androidApi/issues"
+  },
+  "homepage": "https://github.com/sebasgaspar/androidApi#readme",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
