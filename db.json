@@ -65,9 +65,13 @@
   ],
   "profile": [
     {
-      "id": "123123",
+      "id": "2",
       "email": "oscar@mailinator.com",
-      "password": "123456"
-    }
+      "password": "123456",
+      "phone": "3124457480",
+      "address1": "Calle 13",
+      "address2": "Calle 14",
+      "address3": "Calle 15"
+  }
   ]
 }
