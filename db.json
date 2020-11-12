@@ -64,6 +64,7 @@
   ],
   "producto": [
     {
+      "id": "1",
       "img": "https://www.merkadomi.com/wp-content/uploads/2018/12/IMG_2224-1024x768.jpg",
       "name": "Purina",
       "description": "Purina para que tu mascota esté fuerte y saludable",
@@ -71,6 +72,7 @@
       "price": 10000
     },
     {
+      "id": "2",
       "img": "https://cdn1.totalcode.net/la14/product-zoom/es/leche-entera-flexible-colanta-bolsa-x1100ml-1.jpg",
       "name": "Leche",
       "description": "Leche para animales para que la prepares calientica.",
@@ -78,6 +80,7 @@
       "price": 3000
     },
     {
+      "id": "3",
       "img": "https://cdn.shopify.com/s/files/1/0003/1208/2463/products/n42_900x.jpg?v=1574777113",
       "name": "Carne seca",
       "description": "Carne seca para que dure mucho y sea saludable.",
@@ -85,6 +88,7 @@
       "price": 7000
     },
     {
+      "id": "4",
       "img": "https://img.vixdata.io/pd/jpg-large/es/sites/default/files/imj/elgrancatador/C/Cocktail%20de%20maíz%20dulce.jpg",
       "name": "Maiz",
       "description": "Granos de maiz para alimentar a tus aves.",
@@ -92,6 +96,7 @@
       "price": 3000
     },
     {
+      "id": "5",
       "img": "https://www.pharmacius.com/24492-thickbox_default/melaza-de-cana-bote-500-gr-hijas-de-sol.jpg",
       "name": "Melaza",
       "description": "Melaza para suplir dieta alimenticia.",
@@ -99,6 +104,7 @@
       "price": 130000
     },
     {
+      "id": "6",
       "img": "https://images-na.ssl-images-amazon.com/images/I/91u9b-edp3L._AC_SX466_.jpg",
       "name": "Peluche",
       "description": "Peluche para acompañar a tu mascota.",
@@ -106,6 +112,7 @@
       "price": 7000
     },
     {
+      "id": "7",
       "img": "https://www.ammascotas.com/wp-content/uploads/2016/11/perrosalchicha.jpg",
       "name": "Hueso de juguete",
       "description": "Con sonido para tu mascota.",
@@ -113,6 +120,7 @@
       "price": 23000
     },
     {
+      "id": "8",
       "img": "https://www.ammascotas.com/wp-content/uploads/2016/10/juguetedonna.jpg",
       "name": "Dona de juguete",
       "description": "Dona para su diversión.",
@@ -120,6 +128,7 @@
       "price": 18000
     },
     {
+      "id": "9",
       "img": "https://images-na.ssl-images-amazon.com/images/I/91u9b-edp3L._AC_SX466_.jpg",
       "name": "Jabón deshodorante",
       "description": "Para evitar transpiración de tu mascota.",
@@ -127,6 +136,7 @@
       "price": 7000
     },
     {
+      "id": "10",
       "img": "https://images-na.ssl-images-amazon.com/images/I/61rDS%2Ba28DL._AC_SL1068_.jpg",
       "name": "Jabón pulgas",
       "description": "Para acabar sus molestas pulgas.",
@@ -134,6 +144,7 @@
       "price": 23000
     },
     {
+      "id": "11",
       "img": "https://i.pinimg.com/originals/28/e2/19/28e2191ef350c361ed7455da7d483f63.jpg",
       "name": "Jabón decorado",
       "description": "Para mostrarle afecto a tu mascota.",
@@ -141,6 +152,7 @@
       "price": 18000
     },
     {
+      "id": "12",
       "img": "https://www.ocico.co/blog/wp-content/uploads/2017/06/masajes-para-perros.jpg",
       "name": "Masaje",
       "description": "Paraconsentir a tu mascota.",
@@ -148,6 +160,7 @@
       "price": 47000
     },
     {
+      "id": "13",
       "img": "https://myanimals.com/es/wp-content/uploads/2015/01/peinar-a-tu-perro-3.jpg",
       "name": "Peinado",
       "description": "Para mostrarle afecto a tu mascota y que quede hermosa.",
