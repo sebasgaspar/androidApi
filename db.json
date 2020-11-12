@@ -4,30 +4,35 @@
       "img": " ",
       "nameP": "Producto 1",
       "descP": " Descripcion producto 1",
+      "user":"1",
       "cant": 1
     },
     {
       "img": " ",
       "nameP": "Producto 1",
       "descP": " Descripcion producto 1",
+      "user":"1",
       "cant": 1
     },
     {
       "img": " ",
       "nameP": "Producto 1",
       "descP": " Descripcion producto 1",
+      "user":"1",
       "cant": 1
     },
     {
       "img": " ",
       "nameP": "Producto 1",
       "descP": " Descripcion producto 1",
+      "user":"1",
       "cant": 1
     },
     {
       "img": " ",
       "nameP": "Producto 1",
       "descP": " Descripcion producto 1",
+      "user":"1",
       "cant": 1
     }
   ],
@@ -55,12 +60,99 @@
       "name": "Cuidado",
       "description": "Amor puro",
       "pic": "https://myanimals.com/es/wp-content/uploads/2015/01/peinar-a-tu-perro-3.jpg"
+    }
+  ],
+  "producto": [
+    {
+      "img": "https://www.merkadomi.com/wp-content/uploads/2018/12/IMG_2224-1024x768.jpg",
+      "name": "Purina",
+      "description": "Purina para que tu mascota esté fuerte y saludable",
+      "category": "1",
+      "price": 10000
     },
     {
-      "id": "5",
-      "name": "Categoria12",
-      "description": "Gaspar",
-      "pic": "Img.jpg"
+      "img": "https://cdn1.totalcode.net/la14/product-zoom/es/leche-entera-flexible-colanta-bolsa-x1100ml-1.jpg",
+      "name": "Leche",
+      "description": "Leche para animales para que la prepares calientica.",
+      "category": "1",
+      "price": 3000
+    },
+    {
+      "img": "https://cdn.shopify.com/s/files/1/0003/1208/2463/products/n42_900x.jpg?v=1574777113",
+      "name": "Carne seca",
+      "description": "Carne seca para que dure mucho y sea saludable.",
+      "category": "1",
+      "price": 7000
+    },
+    {
+      "img": "https://img.vixdata.io/pd/jpg-large/es/sites/default/files/imj/elgrancatador/C/Cocktail%20de%20maíz%20dulce.jpg",
+      "name": "Maiz",
+      "description": "Granos de maiz para alimentar a tus aves.",
+      "category": "1",
+      "price": 3000
+    },
+    {
+      "img": "https://www.pharmacius.com/24492-thickbox_default/melaza-de-cana-bote-500-gr-hijas-de-sol.jpg",
+      "name": "Melaza",
+      "description": "Melaza para suplir dieta alimenticia.",
+      "category": "1",
+      "price": 130000
+    },
+    {
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91u9b-edp3L._AC_SX466_.jpg",
+      "name": "Peluche",
+      "description": "Peluche para acompañar a tu mascota.",
+      "category": "2",
+      "price": 7000
+    },
+    {
+      "img": "https://www.ammascotas.com/wp-content/uploads/2016/11/perrosalchicha.jpg",
+      "name": "Hueso de juguete",
+      "description": "Con sonido para tu mascota.",
+      "category": "2",
+      "price": 23000
+    },
+    {
+      "img": "https://www.ammascotas.com/wp-content/uploads/2016/10/juguetedonna.jpg",
+      "name": "Dona de juguete",
+      "description": "Dona para su diversión.",
+      "category": "2",
+      "price": 18000
+    },
+    {
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91u9b-edp3L._AC_SX466_.jpg",
+      "name": "Jabón deshodorante",
+      "description": "Para evitar transpiración de tu mascota.",
+      "category": "3",
+      "price": 7000
+    },
+    {
+      "img": "https://images-na.ssl-images-amazon.com/images/I/61rDS%2Ba28DL._AC_SL1068_.jpg",
+      "name": "Jabón pulgas",
+      "description": "Para acabar sus molestas pulgas.",
+      "category": "3",
+      "price": 23000
+    },
+    {
+      "img": "https://i.pinimg.com/originals/28/e2/19/28e2191ef350c361ed7455da7d483f63.jpg",
+      "name": "Jabón decorado",
+      "description": "Para mostrarle afecto a tu mascota.",
+      "category": "3",
+      "price": 18000
+    },
+    {
+      "img": "https://www.ocico.co/blog/wp-content/uploads/2017/06/masajes-para-perros.jpg",
+      "name": "Masaje",
+      "description": "Paraconsentir a tu mascota.",
+      "category": "4",
+      "price": 47000
+    },
+    {
+      "img": "https://myanimals.com/es/wp-content/uploads/2015/01/peinar-a-tu-perro-3.jpg",
+      "name": "Peinado",
+      "description": "Para mostrarle afecto a tu mascota y que quede hermosa.",
+      "category": "4",
+      "price": 38000
     }
   ],
   "profile": [
