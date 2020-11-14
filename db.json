@@ -82,14 +82,84 @@
       "description": "Compra de Oscar",
       "price": 32000,
       "user": "2",
-      "date": "01/11/2020"
+      "date": "01/11/2020",
+      "buy": [
+        {
+          "id": "1",
+          "img": "https://www.merkadomi.com/wp-content/uploads/2018/12/IMG_2224-1024x768.jpg",
+          "product": "1",
+          "name": "Purina",
+          "description": "Purina para que tu mascota esté fuerte y saludable",
+          "category": "1",
+          "price": 10000,
+          "user": "2",
+          "cantidad": 2
+        },
+        {
+          "id": "2",
+          "img": "https://cdn1.totalcode.net/la14/product-zoom/es/leche-entera-flexible-colanta-bolsa-x1100ml-1.jpg",
+          "product": "2",
+          "name": "Leche",
+          "description": "Leche para animales para que la prepares calientica.",
+          "category": "1",
+          "price": 3000,
+          "user": "2",
+          "cantidad": 3
+        },
+        {
+          "id": "3",
+          "product": "3",
+          "img": "https://cdn.shopify.com/s/files/1/0003/1208/2463/products/n42_900x.jpg?v=1574777113",
+          "name": "Carne seca",
+          "description": "Carne seca para que dure mucho y sea saludable.",
+          "category": "1",
+          "price": 7000,
+          "user": "2",
+          "cantidad": 1
+        }
+      ]
     },
     {
       "id": "3",
       "description": "Compra de Oscar",
       "price": 50000,
       "user": "2",
-      "date": "12/11/2020"
+      "date": "12/11/2020",
+      "buy": [
+        {
+          "id": "1",
+          "img": "https://www.merkadomi.com/wp-content/uploads/2018/12/IMG_2224-1024x768.jpg",
+          "product": "1",
+          "name": "Purina",
+          "description": "Purina para que tu mascota esté fuerte y saludable",
+          "category": "1",
+          "price": 10000,
+          "user": "2",
+          "cantidad": 2
+        },
+        {
+          "id": "2",
+          "img": "https://cdn1.totalcode.net/la14/product-zoom/es/leche-entera-flexible-colanta-bolsa-x1100ml-1.jpg",
+          "product": "2",
+          "name": "Leche",
+          "description": "Leche para animales para que la prepares calientica.",
+          "category": "1",
+          "price": 3000,
+          "user": "2",
+          "cantidad": 3
+        },
+        {
+          "id": "3",
+          "product": "3",
+          "img": "https://cdn.shopify.com/s/files/1/0003/1208/2463/products/n42_900x.jpg?v=1574777113",
+          "name": "Carne seca",
+          "description": "Carne seca para que dure mucho y sea saludable.",
+          "category": "1",
+          "price": 7000,
+          "user": "2",
+          "cantidad": 1
+        }
+      ]
     }
   ],
   "markets": [
