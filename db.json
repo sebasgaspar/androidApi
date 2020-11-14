@@ -38,7 +38,8 @@
     {
       "id": "1",
       "description": "Compra de Oscar",
-      "price": 100000,
+      "address": "Calle 30 #3e-39, Chía, Cundinamarca",
+      "price": 36000,
       "user": "2",
       "date": "05/11/2020",
       "buy": [
@@ -80,7 +81,8 @@
     {
       "id": "2",
       "description": "Compra de Oscar",
-      "price": 32000,
+      "address": "Calle 30 #3e-39, Chía, Cundinamarca",
+      "price": 36000,
       "user": "2",
       "date": "01/11/2020",
       "buy": [
@@ -122,7 +124,8 @@
     {
       "id": "3",
       "description": "Compra de Oscar",
-      "price": 50000,
+      "address": "Calle 30 #3e-39, Chía, Cundinamarca",
+      "price": 36000,
       "user": "2",
       "date": "12/11/2020",
       "buy": [
