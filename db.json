@@ -184,6 +184,38 @@
       "lng": "-74.037258",
       "name": "PetyShop 3 Chía"
     }
+    ,
+    {
+      "id": "4",
+      "lat": "4.6649281",
+      "lng": "-74.1101763",
+      "name": "PetyShop 1 Bogotá"
+    }
+    ,
+    {
+      "id": "5",
+      "lat": "4.6654799",
+      "lng": "-74.0738855",
+      "name": "PetyShop 2 Bogotá"
+    },
+    {
+      "id": "6",
+      "lat": "4.7282725",
+      "lng": "-74.0613122",
+      "name": "PetyShop 3 Bogotá"
+    },
+    {
+      "id": "7",
+      "lat": "5.0253",
+      "lng": "-73.9898669",
+      "name": "PetyShop 1 Zipaquirá"
+    },
+    {
+      "id": "8",
+      "lat": "5.0172769",
+      "lng": "-74.0008991",
+      "name": "PetyShop 2 Zipaquirá"
+    }
   ],
   "categories": [
     {
